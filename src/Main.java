@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println("Общий список сотрудников для получения премии:  ");
         for (String employee : finalEmployeeList) {
-            s
+            System.out.println(employee);
         }
     }
 }
